@@ -4,7 +4,8 @@
 <h3> Collaborators (In alphabetical order) <br>
 <h4> Dohye Kim
 <h4> Hyunouk Lee
-<h4> Junsoo Lee <br>
+  <h4> Junsoo Lee </h4>
+  <hr>
 *Programs/Language used: Python, BeautifulSoup, Requests, MySQL, pymysql* <br>
 <h4> This project is to practice data crawling and data store using Python, MySQL with following steps. <br>
 
