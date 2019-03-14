@@ -5,9 +5,9 @@
 <h4> Dohye Kim
 <h4> Hyunouk Lee
  <h4> Junsoo Lee </h4>
- <hr>
 
-<h3> *Programs/Language used <br>
+
+<h3> Programs/Language used <br>
 <h4> Python, BeautifulSoup, Requests, MySQL, pymysql </h4>
 
 <br>
