@@ -6,13 +6,11 @@
 <h4> Hyunouk Lee
  <h4> Junsoo Lee </h4>
 
-
+<hr>
 <h3> Programs/Language used <br>
 <h4> Python, BeautifulSoup, Requests, MySQL, pymysql </h4>
-
-<br>
+<hr>
 <h4> This project is to practice data crawling and data store using Python, MySQL with following steps. </h4> <br>
-
 1. we modularized functions used to connect Python with MySQL, to crawl data from Melon platform, to safely store data in MySQL. <br>
 
 2. we collected Daily Top100, details about the song and albums.<br>
