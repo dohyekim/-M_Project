@@ -1,9 +1,10 @@
 
 <h2> Melon Project (Team Projects)
 
-<h3> Collaborators <br>
-d
-d
+<h3> Collaborators (In alphabetical order) <br>
+<h4> Dohye Kim
+<h4> Hyunouk Lee
+<h4> Junsoo Lee
 
 <h4> This project is to practice data crawling and data store using Python, MySQL with following steps. <br>
 
